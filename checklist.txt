@@ -1,0 +1,10 @@
+Environment Checklist
+---------------------
+
+[✔] Python 3.12 installed and working
+[✔] Virtual environment (.venv) created and activated
+[✔] Django installed (checked with: py -m django --version)
+[✔] Django project created successfully with "django-admin startproject config"
+[✔] Development server runs correctly with "py manage.py runserver"
+[✔] Git repository initialized
+[✔] Remote GitHub repository connected
